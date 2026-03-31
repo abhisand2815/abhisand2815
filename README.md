@@ -83,13 +83,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisand2815&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisand2815&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisand2815&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhisand2815&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=abhisand2815&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisand2815&theme=tokyonight" alt="Profile Summary" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisand2815&theme=tokyonight" alt="Repos Per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhisand2815&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhisand2815&theme=tokyonight" alt="Stats" width="32%"/>
 </p>
 
 ---
