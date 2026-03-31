@@ -1,14 +1,22 @@
-<h1 align="center">Hi, I'm Abhimanyu Singh</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer+%7C+Data+Science+Enthusiast;Building+AI-powered+Gesture+Recognition;Open+to+Collaborations+%26+Internships;VIT+Bhopal+University+%7C+Bhopal%2C+India" alt="Typing SVG" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1a1f2e&height=220&section=header&text=Abhimanyu%20Singh&fontSize=60&fontColor=58A6FF&fontAlignY=55&animation=twinkling&desc=Developer%20%E2%80%A2%20Data%20Science%20Enthusiast%20%E2%80%A2%20AI%20Explorer&descSize=16&descColor=8b949e&descAlignY=78)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhisand2815&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/abhisand2815?label=Followers&style=flat-square&color=0e75b6" alt="Followers"/>
-</p>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Mudra+%26+Dance+Recognition+with+AI;Full+Stack+Dev+%E2%80%94+JS+%7C+Node+%7C+Python+%7C+Django;Currently+diving+into+Data+Science+%26+ML;Open+to+collaborations+%26+internships)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abhisand2815&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/abhisand2815)&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/abhisand2815?label=Followers&style=flat-square&color=0e75b6)](https://github.com/abhisand2815)&nbsp;&nbsp;
+![Student](https://img.shields.io/badge/VIT%20Bhopal-Student-0e75b6?style=flat-square)
+
+</div>
 
 ---
 
