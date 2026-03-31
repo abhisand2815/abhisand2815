@@ -83,20 +83,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisand2815&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisand2815&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisand2815&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisand2815&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="40%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhisand2815&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhisand2815&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=abhisand2815&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="60%"/>
 </p>
 
 ---
