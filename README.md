@@ -1,17 +1,63 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhimanyu+Singh;Full+Stack+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=200&section=header&text=Abhimanyu%20Singh&fontSize=55&fontColor=58A6FF&fontAlignY=38&animation=fadeIn&desc=Developer%20%7C%20Data%20Science%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=60&descSize=18&descColor=a0aec0" width="100%"/>
 
-<h3 align="center">
-  A versatile programmer with a strong foundation in HTML, CSS, JavaScript, Python, C++, and Java — currently expanding into Data Science & ML 🚀
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=🚀+Building+Mudra+%26+Dance+Recognition+with+AI;💻+Full+Stack+Dev+%7C+JS+%2B+Node+%2B+Python;🌱+Diving+Deep+into+Data+Science+%26+ML;🤝+Open+to+Collaborate+on+Cool+Projects;⚡+I+think+I'm+funny.+The+jury's+still+out." alt="Typing SVG" />
+</p>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhisand2815&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abhisand2815?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=abhisand2815&label=👁️+Profile+Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/abhisand2815?label=🤝+Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎓_VIT_Bhopal-Student-58A6FF?style=for-the-badge&labelColor=0d1117" alt="VIT Bhopal"/>
 </p>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 👨‍💻 Who Am I?
+
+```yaml
+name: Abhimanyu Singh
+location: Bhopal, India 🇮🇳
+university: VIT Bhopal University
+role: Full Stack Developer
+focus: Data Science & AI/ML
+current_project: Mudra & Dance Recognition
+open_to: Collaborations & Internships
+fun_fact: Funny (self-proclaimed) 😄
+```
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 What I'm Up To
+
+```python
+class Abhimanyu:
+    def __init__(self):
+        self.learning   = ["Data Science", "ML", "DL"]
+        self.building   = ["Mudra Recognition", "Web Apps"]
+        self.asking_for = ["AI/ML Training Help"]
+        self.loves      = ["Clean Code", "Open Source"]
+
+    def say_hi(self):
+        print("Thanks for visiting! 🚀")
+
+me = Abhimanyu()
+me.say_hi()
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
@@ -114,5 +160,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1a1b27,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 </p>
