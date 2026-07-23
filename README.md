@@ -1,29 +1,20 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1a1f2e&height=220&section=header&text=Abhimanyu%20Singh&fontSize=60&fontColor=58A6FF&fontAlignY=55&animation=twinkling&desc=Developer%20%E2%80%A2%20Data%20Science%20Enthusiast%20%E2%80%A2%20AI%20Explorer&descSize=16&descColor=8b949e&descAlignY=78" width="100%" alt="Abhimanyu Singh Header"/>
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1a1f2e&height=220&section=header&text=Abhimanyu%20Singh&fontSize=60&fontColor=58A6FF&fontAlignY=55&animation=twinkling&desc=Developer%20%E2%80%A2%20Data%20Science%20Enthusiast%20%E2%80%A2%20AI%20Explorer&descSize=16&descColor=8b949e&descAlignY=78)
 
 </div>
 
 <div align="center">
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Mudra+%26+Dance+Recognition+with+AI;Full+Stack+Dev+%E2%80%94+JS+%7C+Node+%7C+Python+%7C+Django;Currently+diving+into+Data+Science+%26+ML;Open+to+collaborations+%26+internships" alt="Typing SVG"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Mudra+%26+Dance+Recognition+with+AI;Full+Stack+Dev+%E2%80%94+JS+%7C+Node+%7C+Python+%7C+Django;Currently+diving+into+Data+Science+%26+ML;Open+to+collaborations+%26+internships)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-<!-- Profile Badges -->
-<a href="https://github.com/abhisand2815">
-  <img src="https://komarev.com/ghpvc/?username=abhisand2815&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/abhisand2815">
-  <img src="https://img.shields.io/github/followers/abhisand2815?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers"/>
-</a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/VIT%20Bhopal-Student-0e75b6?style=flat-square" alt="Student"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=abhisand2815&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/abhisand2815)&nbsp;&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/abhisand2815?label=Followers&style=flat-square&color=0e75b6)](https://github.com/abhisand2815)&nbsp;&nbsp;
+![Student](https://img.shields.io/badge/VIT%20Bhopal-Student-0e75b6?style=flat-square)
 
 </div>
 
@@ -33,14 +24,14 @@
 
 I am a versatile programmer with a strong foundation in HTML, CSS, JavaScript, Python, C++, and Java, currently expanding into Data Science and Machine Learning. I enjoy building efficient web solutions, writing clean and logical code, and exploring data to extract meaningful insights.
 
-- 🔭 Currently working on **Mudra and Dance Recognition** — an AI/Computer Vision project
-- 🌱 Currently learning **Data Science, Machine Learning and Deep Learning**
-- 👯 Looking to collaborate on **Full Stack and Development Projects**
-- 🤝 Looking for help with **AI and ML Training Projects**
-- 💬 Ask me about **JavaScript, Node.js, HTML/CSS, Python**
-- 📫 Reach me at **abhimanyu.24bce10726@vitbhopal.ac.in**
-- 🏫 Studying at **VIT Bhopal University**
-- ⚡ Fun fact — **I think I am funny and creative**
+- Currently working on **Mudra and Dance Recognition** — an AI/Computer Vision project
+- Currently learning **Data Science, Machine Learning and Deep Learning**
+- Looking to collaborate on **Full Stack and Development Projects**
+- Looking for help with **AI and ML Training Projects**
+- Ask me about **JavaScript, Node.js, HTML/CSS, Python**
+- Reach me at **abhimanyu.24bce10726@vitbhopal.ac.in**
+- Studying at **VIT Bhopal University**
+- Fun fact — I think I am funny and creative
 
 ---
 
@@ -96,14 +87,6 @@ I am a versatile programmer with a strong foundation in HTML, CSS, JavaScript, P
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhisand2815&theme=tokyonight&column=7&margin-w=15&no-frame=true" alt="Trophies" width="100%"/>
-</div>
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -124,23 +107,6 @@ I am a versatile programmer with a strong foundation in HTML, CSS, JavaScript, P
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhisand2815&theme=tokyonight" alt="Stats" width="32%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisand2815&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Overview"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisand2815&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages Breakdown"/>
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhisand2815/abhisand2815/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhisand2815/abhisand2815/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhisand2815/abhisand2815/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 ---
 
 ## Featured Projects
@@ -152,16 +118,4 @@ I am a versatile programmer with a strong foundation in HTML, CSS, JavaScript, P
 
 ---
 
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
-
----
-
-<div align="center">
-
 *Thanks for visiting my profile!*
-
-</div>
