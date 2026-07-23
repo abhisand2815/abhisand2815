@@ -4,15 +4,13 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+VIT+Bhopal+(2028);Building+HIREMIND+%E2%80%94+AI+Hiring+Platform;Computer+Vision+%2B+MediaPipe+Explorer;300+Days+of+DSA+on+LeetCode;Open+to+Collabs+%26+Internships" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=3FB950&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+VIT+Bhopal+(2028);Building+HIREMIND+%E2%80%94+AI+Hiring+Platform;Computer+Vision+%2B+MediaPipe+Explorer;300+Days+of+DSA+on+LeetCode;Open+to+Collabs+%26+Internships" />
 
 </div>
 
 <br/>
 
-<hr style="border:none;height:1px;background:linear-gradient(to right,transparent,#58A6FF,transparent);"/>
+<hr style="border:none;height:1px;background:linear-gradient(to right,transparent,#3FB950,transparent);"/>
 
 <table align="center">
 <tr>
@@ -38,7 +36,7 @@ fun_fact: "300-day self-directed DSA streak, still counting"
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhisand2815&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhisand2815&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9&rank_icon=github" width="100%"/>
 
 </td>
 </tr>
@@ -51,8 +49,8 @@ fun_fact: "300-day self-directed DSA streak, still counting"
 ### 🔗 Connect
 
 <a href="https://linkedin.com/in/abhimanyu-singh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
-<a href="mailto:abhimanyu15282005@gmail.com"><img src="https://img.shields.io/badge/Gmail-58A6FF?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
-<a href="https://github.com/abhisand2815" target="_blank"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" /></a>
+<a href="mailto:abhimanyu15282005@gmail.com"><img src="https://img.shields.io/badge/Gmail-3FB950?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
+<a href="https://github.com/abhisand2815" target="_blank"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=3FB950" /></a>
 
 </div>
 
@@ -68,7 +66,7 @@ fun_fact: "300-day self-directed DSA streak, still counting"
 
 <br/>
 
-<hr style="border:none;height:1px;background:linear-gradient(to right,transparent,#58A6FF,transparent);"/>
+<hr style="border:none;height:1px;background:linear-gradient(to right,transparent,#3FB950,transparent);"/>
 
 ### 🚀 Featured Work
 
@@ -77,25 +75,25 @@ Pin your projects natively — go to **github.com/abhisand2815 → Customize you
 If you'd rather keep hardcoded cards inside the README itself, send the exact repo slugs (case-sensitive) and I'll drop in:
 
 ```
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhisand2815&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abhisand2815&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9" width="100%"/>
 ```
 
 one block per repo, swapping `REPO_NAME`.
 
 <br/>
 
-<hr style="border:none;height:1px;background:linear-gradient(to right,transparent,#58A6FF,transparent);"/>
+<hr style="border:none;height:1px;background:linear-gradient(to right,transparent,#3FB950,transparent);"/>
 
 <div align="center">
 
 ### 📊 GitHub Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisand2815&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisand2815&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3FB950&line=58A6FF&point=C9D1D9&area=true&area_color=3FB950" width="100%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=abhisand2815&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisand2815&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="38%"/>
+<img src="https://streak-stats.demolab.com?user=abhisand2815&theme=tokyonight&hide_border=true&background=0D1117&stroke=3FB950&ring=3FB950&fire=3FB950&currStreakLabel=58A6FF&border=30363D&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisand2815&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FB950&text_color=C9D1D9" width="38%"/>
 
 </div>
 
@@ -103,7 +101,7 @@ one block per repo, swapping `REPO_NAME`.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=abhisand2815&label=Profile+Views&color=58A6FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=abhisand2815&label=Profile+Views&color=3FB950&style=for-the-badge" />
 
 <br/><br/>
 
