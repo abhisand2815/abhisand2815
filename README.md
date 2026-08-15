@@ -191,6 +191,6 @@ Computer Science undergraduate at VIT Bhopal building across AI/Computer Vision,
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:1b3a2e,100:0d1117&height=90&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1b3a2e,100:0d1117&height=90&section=footer" width="100%"/>
 
 </div>
