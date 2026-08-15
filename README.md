@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b3a2e&height=180&section=header&text=Abhimanyu%20Singh&fontSize=44&fontColor=4ade80&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=16&descColor=7dd3fc&descAlignY=62)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b3a2e&height=180&section=header&text=Abhimanyu%20Singh&fontSize=44&fontColor=4ade80&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20Competitive%20Programmer&descSize=16&descColor=7dd3fc&descAlignY=62" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=22C55E&center=true&vCenter=true&width=650&lines=CS+Undergraduate+%40+VIT+Bhopal;Building+AI%2FML+%26+Full+Stack+Systems;300-Day+LeetCode+Streak+%C2%B7+DSA+Focused;Open+to+Collaborations+%26+Internships)](https://git.io/typing-svg)
 
