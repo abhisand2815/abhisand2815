@@ -128,7 +128,7 @@ Computer Science undergraduate at VIT Bhopal building across AI/Computer Vision,
 <th align="left">Details</th>
 </tr>
 <tr>
-<td valign="top"><b>Event Co-Lead</b></td>
+<td valign="top"><b>Event Lead</b></td>
 <td valign="top">Bit By Bit Club, VIT Bhopal</td>
 <td valign="top">Co-organized technical events including Techfluence 2k26 speaker series and Tech Carnival hackathon</td>
 </tr>
