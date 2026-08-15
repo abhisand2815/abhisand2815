@@ -137,7 +137,10 @@ I am a versatile programmer with a strong foundation in HTML, CSS, JavaScript, P
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhisand2815&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="Trophies" width="90%"/>
+  <img src="https://img.shields.io/badge/300--Day-LeetCode%20Streak-0d1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF&labelColor=1a1f2e" alt="LeetCode Streak"/>
+  <img src="https://img.shields.io/badge/Event%20Co--Lead-Bit%20By%20Bit%20Club-0d1117?style=for-the-badge&logoColor=58A6FF&labelColor=1a1f2e" alt="Bit By Bit Club"/>
+  <img src="https://img.shields.io/badge/Co--Lead-iCreate%20Club-0d1117?style=for-the-badge&logoColor=58A6FF&labelColor=1a1f2e" alt="iCreate Club"/>
+  <img src="https://img.shields.io/badge/Core%20Member-UX%20Club-0d1117?style=for-the-badge&logoColor=58A6FF&labelColor=1a1f2e" alt="UX Club"/>
 </p>
 
 <p align="center">
