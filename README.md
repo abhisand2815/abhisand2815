@@ -22,7 +22,7 @@ Computer Science undergraduate at VIT Bhopal building across AI/Computer Vision,
 | | | | |
 |:---:|:---:|:---:|:---:|
 | **Role** | **Focus** | **Streak** | **Leading** |
-| CSE Undergrad, VIT Bhopal | Computer Vision · Full Stack · DSA | 300-day LeetCode | Bit By Bit · iCreate · UX Club |
+| CSE Undergrad, VIT Bhopal | Computer Vision · Full Stack · DSA | 300-day LeetCode | Bit By Bit - Lead |
 
 </div>
 
